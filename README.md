@@ -33,7 +33,7 @@ functional forms for the vol-on-vol forecasting relationship.
 | `neg_ret_adj_cc` | Negative adjusted return (leverage proxy) |
 | `neg_ret_adj_cc_pos` | `max(neg_ret_adj_cc, 0)` (down-day leverage) |
 
-All estimators are annualised (multiplied by √252) and expressed as percentage
+All estimators are annualized (multiplied by √252) and expressed as percentage
 volatility.
 
 ---
