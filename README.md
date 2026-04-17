@@ -24,7 +24,7 @@ functional forms for the vol-on-vol forecasting relationship.
 | `vol_cc_ann` | Unadjusted close-to-close |
 | `vol_parkinson_ann` | [Parkinson (1980)](https://www-2.rotman.utoronto.ca/~kan/3032/pdf/FinancialAssetReturns/Parkinson_JB_1980.pdf) |
 | `vol_gk_ann` | [Garman–Klass (1980)](https://www-2.rotman.utoronto.ca/~kan/3032/pdf/FinancialAssetReturns/Garman_Klass_JB_1980.pdf) |
-| `vol_rs_ann` | Rogers–Satchell (1991) |
+| `vol_rs_ann` | [Rogers–Satchell (1991)](https://projecteuclid.org/journals/annals-of-applied-probability/volume-1/issue-4/Estimating-Variance-From-High-Low-and-Closing-Prices/10.1214/aoap/1177005835.full) |
 | `vol_yz_ann` | Yang–Zhang (2000) |
 | `vol_meilijson_ann` | Meilijson (2011) |
 | `vol_ht_ann` | Hodges–Tompkins (bias-corrected CC) |
