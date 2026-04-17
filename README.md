@@ -26,7 +26,7 @@ functional forms for the vol-on-vol forecasting relationship.
 | `vol_gk_ann` | [Garman–Klass (1980)](https://www-2.rotman.utoronto.ca/~kan/3032/pdf/FinancialAssetReturns/Garman_Klass_JB_1980.pdf) |
 | `vol_rs_ann` | [Rogers–Satchell (1991)](https://projecteuclid.org/journals/annals-of-applied-probability/volume-1/issue-4/Estimating-Variance-From-High-Low-and-Closing-Prices/10.1214/aoap/1177005835.full) |
 | `vol_yz_ann` | [Yang–Zhang (2000)](https://www.jstor.org/stable/10.1086/209650?seq=1) |
-| `vol_meilijson_ann` | Meilijson (2011) |
+| `vol_meilijson_ann` | [Meilijson (2011)](https://www.researchgate.net/publication/1742961_The_Garman-Klass_volatility_estimator_revisited) |
 | `vol_ht_ann` | Hodges–Tompkins (bias-corrected CC) |
 | `vol_tr_ann` | True Range |
 | `vol_on_rs_ann` | Overnight + Rogers–Satchell |
